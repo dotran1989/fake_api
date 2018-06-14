@@ -1,0 +1,17 @@
+{
+	"categories": 
+	[
+		{
+    			"id" : 1,
+    			"name" : "Truyen co tich VN"
+  		},
+		{
+    			"id" : 2,
+    			"name" : "Truyen co Grim"
+  		},
+ 		{
+    			"id" : 3,
+    			"name" : "Truyen co Andersen"
+  		}
+  ]
+}
