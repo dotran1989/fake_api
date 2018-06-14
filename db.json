@@ -3,15 +3,15 @@
 	[
 		{
     			"id" : 1,
-    			"name" : "Truyen co tich VN"
+    			"name" : "Truyện cổ tích VN"
   		},
 		{
     			"id" : 2,
-    			"name" : "Truyen co Grim"
+    			"name" : "Truyện cổ Grim"
   		},
  		{
     			"id" : 3,
-    			"name" : "Truyen co Andersen"
+    			"name" : "Truyện cổ Andersen"
   		}
   ]
 }
